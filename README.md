@@ -10,4 +10,4 @@ N.B.: I developed the JDBC Framework code prior to the existence of <code>java.l
 statement, introduced in Java SE 7. So, much of the motivation and thinking behind the JDBC Framework is best understood within that context, not having
 the benefits of the Java 7 improvements in the language.
 
-Further reading: <a target="_blank" href="http://climber09.github.io/p/jdbc_framework">http://climber09.github.io/p/jdbc_framework</a>
+Further reading: <a target="_blank" href="https://climber09.github.io/p/jdbc_framework">climber09.github.io/p/jdbc_framework</a>
